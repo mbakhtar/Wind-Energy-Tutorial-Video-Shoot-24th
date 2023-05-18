@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Ec*B78RFXKbX/^W/]]Ky" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="LexFgWTKY[*QPNQBWhH6"><field name="LEDS">`
+        # . # . # 
+        # . # . . 
+        # # # . # 
+        # . # . # 
+        # . # . #
+        `</field></block></statement></block><block type="device_forever" id="DkrE71!a_{3t*(]{Z#vc" x="296" y="6"></block><block type="device_button_event" id="CL{w:167-~fvW//5}4Rc" x="224" y="199"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="fwd_servo_continuous_set_speed" id="i[qXtNzlX3kj9VeQ!7=."><field name="this">fwdMotors.servo1</field><value name="speed"><shadow type="speedPicker" id=";@1g|.ugW[$3P9`37PQx"><field name="speed">100</field></shadow></value></block></statement></block><block type="device_button_event" id="KW#D.^7Kw9^H5$-@X]Yx" x="229" y="337"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="fwd_servo_set_enabled" id="^6g.l=^o[Tr;SobhTZ!K"><field name="this">fwdMotors.servo1</field><value name="state"><shadow type="toggleOnOff" id="e:54iUL-68fS)]vWXatG"><field name="on">false</field></shadow></value></block></statement></block></xml>
