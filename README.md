@@ -5,7 +5,7 @@
 
 This repository can be added as an **extension** in MakeCode.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* open [Wind Mill Tutorial Beginner](https://makecode.microbit.org/#tutorial:github:mbakhtar/wind-energy-tutorial-video-shoot-24th/windmill)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/mbakhtar/wind-energy-tutorial-video-shoot-24th** and import
